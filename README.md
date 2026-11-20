@@ -51,7 +51,8 @@ By navigating through the Network walks website the tools were obtained as per s
 ---
 **Hashing Calculator Tool**
 
-<img width="955" height="1027" alt="1  hash NWT" src="https://github.com/user-attachments/assets/146d7e3a-5310-4f97-a272-49f8344f647a" />
+<img width="955" height="1027" alt="1  NWT hashing tool" src="https://github.com/user-attachments/assets/9d1af25a-df5e-467c-a804-6114a80d5067" />
+
 
 </p>
 
