@@ -107,7 +107,24 @@ The flag were captured and the tested to the file,
 
 <img width="1045" height="1001" alt="7 NWT flag captured" src="https://github.com/user-attachments/assets/7d160932-876c-4755-87af-a7043f3037f6" />
 
+</p>
 
+---
 
+# 🔗 Tools & Resources
+
+- **NetworkwalksHash Caluclator:** (https://networkwalks.com/hash-calculator/)
+- **Cracker:** (https://networkwalks.com/password-cracker/)
+
+# 👤 Author
+
+**Datus Ekwabi**\
+
+LinkedIn: [www.linkedin.com/in/datus-ekwabi-43b622173
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Cracking with Network Walks Tools **Repository:** GitHub
 
 
